@@ -1,0 +1,11 @@
+﻿  windows.c
+f:\cproject\mfctest\win32project2\win32project2\windows.c(9): warning C4028: 形参 1 与声明不同
+f:\cproject\mfctest\win32project2\win32project2\windows.c(9): warning C4028: 形参 2 与声明不同
+f:\cproject\mfctest\win32project2\win32project2\windows.c(9): warning C4028: 形参 4 与声明不同
+f:\cproject\mfctest\win32project2\win32project2\windows.c(9): warning C4029: 声明的形参表不同于定义
+f:\cproject\mfctest\win32project2\win32project2\windows.c(9): warning C4273: “CallWindowProcA”: dll 链接不一致
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(4022): note: 参见“CallWindowProcA”的前一个定义
+f:\cproject\mfctest\win32project2\win32project2\windows.c(29): warning C4133: “函数”: 从“char [1024]”到“LPWSTR”的类型不兼容
+f:\cproject\mfctest\win32project2\win32project2\windows.c(30): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+  Win32Project2.vcxproj -> F:\CProject\MFCTest\Win32Project2\Debug\Win32Project2.exe
+  Win32Project2.vcxproj -> F:\CProject\MFCTest\Win32Project2\Debug\Win32Project2.pdb (Full PDB)
